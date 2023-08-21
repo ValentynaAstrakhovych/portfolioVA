@@ -1,12 +1,4 @@
-import React, { useState } from "react";
-
 export default function Navbar() {
- const [hamburgerOpen, setHamburgerOpen]=useState(false);
-
- const toggleHamburger= () =>{
-  setHamburgerOpen(!hamburgerOpen)
- }
-
 
   return (
     <header className="hidden sm:inline-block bg-gray-700 sticky top-0 z-30 sm:w-full">
@@ -22,9 +14,6 @@ export default function Navbar() {
           </a>
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
-          </a>
-          <a href="#" className="mr-5 hover:text-white">
-            Resume 
           </a>
         </nav>
         <a href="#contact" className="inline-flex mx-auto items-center text-base ml-auto mr-0 hover:text-fuchsia-300 hover:text-lg invisible md:visible">
