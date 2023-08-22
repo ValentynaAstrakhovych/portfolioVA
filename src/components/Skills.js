@@ -14,17 +14,17 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <ul className="list-disc text-sky-400/100 lg:mx-auto px-4 md:px-40">
-            <li className="text-sky-400/90">In-depth understanding of the entire web development process (design, development, and deployment).</li>
-            <li className="text-sky-400/80">Knowledge of SEO principles.</li>
-            <li className="text-sky-400/70">Solid technical understanding of HTML and CSS, as well as abstraction languages like LESS/SASS</li>
-            <li className="text-sky-400/60">Experience with front end UI frameworks like Bootstrap</li>
-            <li className="text-sky-400/50">Experience in JavaScript.</li>
-            <li className="text-sky-400/50">Knowledge of Node.js, npm, webpack, etc. and how to use them to optimize a build process.</li>
-            <li className="text-sky-400/40">Solid experience building client-side application using React JS.</li>
-            <li className="text-sky-400/40">Basic understanding of back-end technologies and how they integrate with front-end systems.</li>
-            <li className="text-sky-400/30">Experience with code versioning tools like Git.</li>
-            <li className="text-sky-400/30">Familiarity with browser testing and debugging.</li>
-            <li className="text-sky-400/20">Ability to learn quickly and adapt to new technologies and frameworks.</li>
+            <li className="text-sky-400">In-depth understanding of the entire web development process (design, development, and deployment).</li>
+            <li className="text-sky-400/90">Knowledge of SEO principles.</li>
+            <li className="text-sky-400/90">Solid technical understanding of HTML and CSS, as well as abstraction languages like LESS/SASS</li>
+            <li className="text-sky-400/90">Experience with front end UI frameworks like Bootstrap</li>
+            <li className="text-sky-400/80">Experience in JavaScript.</li>
+            <li className="text-sky-400/80">Knowledge of Node.js, npm, webpack, etc. and how to use them to optimize a build process.</li>
+            <li className="text-sky-400/70">Solid experience building client-side application using React JS.</li>
+            <li className="text-sky-400/70">Basic understanding of back-end technologies and how they integrate with front-end systems.</li>
+            <li className="text-sky-400/60">Experience with code versioning tools like Git.</li>
+            <li className="text-sky-400/50">Familiarity with browser testing and debugging.</li>
+            <li className="text-sky-400/40">Ability to learn quickly and adapt to new technologies and frameworks.</li>
           </ul>
         </div>
         <div className="grid grid-rows-6 grid-cols-1 md:grid-rows-3 md:grid-cols-2 mx-auto mt-10 w-fit">
