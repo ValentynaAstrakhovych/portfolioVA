@@ -3,10 +3,8 @@ export default function Navbar() {
   return (
     <header className="hidden sm:inline-block bg-gray-700 sticky top-0 z-30 sm:w-full">
       <div className="container  mx-auto flex flex-nowrap p-5 flex-row items-center mx-0 w-10/12">
-        <a className="text-fuchsia-300 mr-4  text-xl">
-          <a href="#about" >
+        <a href="#about" className="text-fuchsia-300 mr-4  text-xl">
             Valentyna Astrakhovych
-          </a>
         </a>
         <nav className="flex flex-nowrap items-center text-base justify-center invisible md:visible">
           <a href="#projects" className="mr-5 hover:text-white">
