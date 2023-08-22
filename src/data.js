@@ -9,7 +9,7 @@ export const projects = [
     {
       title: "Repair Design Project",
       image: "https://media.licdn.com/dms/image/D5622AQFtxtd-Kz-gmA/feedshare-shrink_2048_1536/0/1692481075623?e=1695254400&v=beta&t=O-W04OUuILbqhE-187hfo9sHM66Bn4X1fpHQNoLoaiI",
-      link: "https://valentynaastrakhovych.github.io/WebLayout/",
+      link: "https://valentynaastrakhovych.github.io/Web_layout/",
     },
     {
       title: "Slider",
