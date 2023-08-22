@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolioVA/static/css/main.046a6ea6.css",
+    "main.js": "/portfolioVA/static/js/main.497dd292.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolioVA/static/js/787.1ed0c42c.chunk.js",
+    "static/media/robot-svgrepo-com.svg": "/portfolioVA/static/media/robot-svgrepo-com.af0073159b7fd0c9e04a2a358eb016e8.svg",
+    "index.html": "/portfolioVA/index.html",
+    "main.046a6ea6.css.map": "/portfolioVA/static/css/main.046a6ea6.css.map",
+    "main.497dd292.js.map": "/portfolioVA/static/js/main.497dd292.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolioVA/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046a6ea6.css",
+    "static/js/main.497dd292.js"
+  ]
+}
