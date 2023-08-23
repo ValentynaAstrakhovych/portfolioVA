@@ -50,7 +50,7 @@ export default function Contact() {
               </p>
             </div>
             <div>
-              <h2 className="text-white text-xs ">
+              <h2 className="text-white text-xs">
                 EMAIL:
               </h2>
               <a className="text-base  text-indigo-300 mb-1" href="mailto:valentynaastrakhovych@gmail.com">
